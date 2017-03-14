@@ -2,6 +2,10 @@
 	color: white;
 }
 
+#social-buttons .btn:hover, .btn:focus {
+	color: #111;
+}
+
 .btn-twitter {
 	background-color: #00acee;
 	border-color: #009ad5;
