@@ -55,3 +55,7 @@ nav {
 blockquote {
 	border-left: 0;
 }
+
+#mission h2 {
+	margin-bottom: 1em;
+}
