@@ -43,3 +43,7 @@
 .form-inline input[name="email"] {
 	width: 80%;
 }
+
+nav {
+	opacity: 0.8;
+}
